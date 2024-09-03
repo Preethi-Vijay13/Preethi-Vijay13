@@ -7,7 +7,6 @@
 - 📫 How to reach me:
        LinkedIn: www.linkedin.com/in/preethi-vijay-98912228a...
        Email: preethivijay1310@gmail.com
--  
 <!---
 Preethi-Vijay13/Preethi-Vijay13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
